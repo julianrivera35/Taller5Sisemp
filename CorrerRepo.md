@@ -1,0 +1,1 @@
+Para correr el repositorio es necesario correr el comando npm install para instalar todos los modules necesarios. En caso de que haya problemas con ui5 cli, correr el comando npm i --save-dev @ui5/cli@latest
